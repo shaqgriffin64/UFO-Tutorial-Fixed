@@ -57,7 +57,7 @@ public class PlayerController : MonoBehaviour
 
             if (count >= 12)
                 {
-                winText.text = "You win!";
+                winText.text = "You win! Game Created by Shaquille Griffin";
                 }
         }
 }
